@@ -22,6 +22,10 @@ It is a simple Django application where you will be able to parse images to get 
 Clone from repo: [Django-Parser](https://github.com/hmrubai/django-parser)
 
 run command in terminal:
+
 ```
     pip install -r requirements.txt
+    python manage.py runserver 
 ```
+
+That's It!
